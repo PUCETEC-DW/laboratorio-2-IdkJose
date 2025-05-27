@@ -14,6 +14,10 @@ Este proyecto es una práctica de consumo de APIs usando `fetch()` y manipulaci�
 
 ---
 
+## 🔗 Link de la pagina: 
+
+- https://idkjose.github.io/laboratorio-2-IdkJose/
+
 ## 🌍 Créditos
 
 - API de países: [REST Countries](https://restcountries.com)
